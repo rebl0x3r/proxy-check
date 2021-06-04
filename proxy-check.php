@@ -14,7 +14,7 @@ $ip = $argv[1];
 
 // Paste Here Your API Key
 
-$key = "3l9k49-348gpo-047008-337584";
+$key = "";
 
 // Params (Read The GitHub Readme)
 
