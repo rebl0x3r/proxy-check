@@ -8,7 +8,7 @@ error_reporting(0);
 
 // remove "#" if you want work with websites
 
-#$ip = $_REQUEST['REMOTE_ADDR'];
+#$ip = $_SERVER['REMOTE_ADDR'];
 
 $ip = $argv[1];
 
