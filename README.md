@@ -93,16 +93,16 @@
   
   The values of this array depends on the result.
   ```
-  "vpn"		=> "1",
-  "asn"		=> "1",
-  "node"	=> "1",
-  "time"	=> "0",
-  "risk"	=> "2",
-  "port"	=> "0",
-  "seen"	=> "1",
-  "days" 	=> "7",
-  "tag"		=> "0",
-  "ver"		=> "0"
+  "vpn"  => "1",
+  "asn"  => "1",
+  "node" => "1",
+  "time" => "0",
+  "risk" => "2",
+  "port" => "0",
+  "seen" => "1",
+  "days" => "7",
+  "tag"  => "0",
+  "ver"  => "0"
   ```
   
   <code>0</code> means disabled.
