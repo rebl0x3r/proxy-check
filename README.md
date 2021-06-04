@@ -112,7 +112,7 @@
   * <code>risk</code>
   * <code>days</code>
 
-  Risk is the score of the page. While```1``` delivers just the risk score, ```2``` delivers some extra information like:
+  Risk is the score of the page. While ```1``` delivers just the risk score, ```2``` delivers some extra information like:
   * Attack History
     * Vulnerability Probing
     * Forum Spam
@@ -129,6 +129,17 @@
   
   If you don't have endless mails, look down below to our channel, we post soon a tutorial how to make infinite Accounts.
 
+  After you got your API key, open the ```proxy-check.php``` file with any editor of your choice and edit line <code>17</code>. Paste your API key between the quotes => ```"$key = <PASTE_YOUR_API_KEY";```
+  
+  <h4>Before</h4>
+  
+  ```$key = "";```
+  
+  <h4>After</h4>
+  
+  ```$key = "3l9k49-348gpo-047008-337584";```
+
+  
 <h2>Disclaimer</h2>
 
   Use this tool for educational purposes only .🕵️‍♂️
