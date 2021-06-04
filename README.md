@@ -4,7 +4,9 @@
   <img alt="Errors" src="https://img.shields.io/badge/errors fixed-0-red">
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/rebl0x3r/proxy-check">
   <img alt="Open Source" src="https://badges.frapsoft.com/os/v1/open-source.png?v=103">
-  <a href="https://t.me/f4c3r100"><img alt="Ask Me" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>       
+  <img alt="PHP" src="https://img.shields.io/badge/php-5.3%20--%207.4-blue">
+  <img alt="License" src="https://user-images.githubusercontent.com/63623649/120860225-966d4d80-c585-11eb-8d8a-7dca56f6eac8.png">
+  <a href="https://t.me/f4c3r100"><img alt="Ask Me" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>
   <a href="https://t.me/scarlettamarket/"><img src="https://raw.githubusercontent.com/Patrolavia/telegram-badge/master/chat.svg" alt="Support chat"></a>
 </p>
 
