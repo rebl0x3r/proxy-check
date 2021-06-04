@@ -1,5 +1,4 @@
 <p align="center">
-  🌐 Domain to IP lookup | Fast ⚡️<br><br>
   <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/rebl0x3r/proxy-check">
   <img alt="Tool version" src="https://img.shields.io/badge/version-0.1-brightgreen">
   <img alt="Errors" src="https://img.shields.io/badge/errors fixed-0-red">
@@ -9,7 +8,7 @@
   <a href="https://t.me/scarlettamarket/"><img src="https://raw.githubusercontent.com/Patrolavia/telegram-badge/master/chat.svg" alt="Support chat"></a>
 </p>
 
-<h1 align=center>Domain To IP</h1>
+<h1 align=center>Proxy Check</h1>
 
 <hr>
 
