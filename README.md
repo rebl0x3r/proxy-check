@@ -19,6 +19,7 @@
 * [General Information](#general-info)
 * [Preview](#preview)
 * [Installation](#installation)
+* [Configuration](#configuration)
 * [Disclaimer](#disclaimer)
 * [Credits](#credits)
 * [Social Media](#social-media)
@@ -85,6 +86,48 @@
   $ sudo apt install php-curl php$(php -v | head -1 | cut -d . -f1-2 | sed 's/PHP //g')-curl -y
   
   ```
+
+<h2>Configuration</h2>
+  
+  For the configuration you see between line ```19``` and line ```30``` an array.
+  
+  The values of this array depends on the result.
+  ```
+  "vpn"	=> "1",
+	"asn"	=> "1",
+	"node"	=> "1",
+	"time"	=> "0",
+	"risk"	=> "2",
+	"port"	=> "0",
+	"seen"	=> "1",
+	"days" 	=> "7",
+	"tag"	=> "0",
+	"ver"	=> "0"
+  ```
+  
+  <code>0</code> means disabled.
+  <code>1</code> means enabled.
+  
+  Actually, there are two variables in the array which have more than 1:
+  * <code>risk</code>
+  * <code>days</code>
+
+  Risk is the score of the page. While```1``` delivers just the risk score, ```2``` delivers some extra information like:
+  * Attack History
+    * Vulnerability Probing
+    * Forum Spam
+    * Login Attempt
+    * Registration Attempt
+ 
+ Days will specify the amount of days between now and the days before what with the proxy / ip happened.
+
+  <h3>Getting API Key</h3>
+  
+  To get an API key register on the page :
+  
+  [proxycheck.io](https://proxycheck.io/)
+  
+  If you don't have endless mails, look down below to our channel, we post soon a tutorial how to make infinite Accounts.
 
 <h2>Disclaimer</h2>
 
