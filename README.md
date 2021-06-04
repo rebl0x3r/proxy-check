@@ -1,2 +1,134 @@
-# proxy-check
-Check If An IP Is Proxy Or Not 🌐
+<p align="center">
+  🌐 Domain to IP lookup | Fast ⚡️<br><br>
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/rebl0x3r/proxy-check">
+  <img alt="Tool version" src="https://img.shields.io/badge/version-0.1-brightgreen">
+  <img alt="Errors" src="https://img.shields.io/badge/errors fixed-0-red">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/rebl0x3r/proxy-check">
+  <img alt="Open Source" src="https://badges.frapsoft.com/os/v1/open-source.png?v=103">
+  <a href="https://t.me/f4c3r100"><img alt="Ask Me" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>       
+  <a href="https://t.me/scarlettamarket/"><img src="https://raw.githubusercontent.com/Patrolavia/telegram-badge/master/chat.svg" alt="Support chat"></a>
+</p>
+
+<h1 align=center>Domain To IP</h1>
+
+<hr>
+
+<h2>Table Of Contents</h2>
+
+* [General Information](#general-info)
+* [Preview](#preview)
+* [Installation](#installation)
+* [Disclaimer](#disclaimer)
+* [Credits](#credits)
+* [Social Media](#social-media)
+* [Bug Report](#bug-report)
+
+<hr>
+
+<h2>General Information</h2>
+  
+  This tool is used to identify proxy IPs aswell as VPN.
+  
+<hr>
+
+<h2>Preview</h2>
+<p align="center">
+  <img alt="Showcase" src="https://i.ibb.co/5sp60TR/image.png">
+</p>
+
+<h2>Installation</h2>
+
+  Proxy-Check tool requires <a href="https://www.php.net/">PHP </a> v7+ to run.
+  
+  <h3>Linux</h3>
+  
+  ```
+  $ git clone https://github.com/rebl0x3r/proxy-check
+  
+  $ cd proxy-check
+
+  $ chmod +x proxy-check.php
+  
+  $ php proxy-check.php <IP>
+  
+  $ php proxy-check.php 185.220.102.247
+  
+  +===== INFO =====+
+  IP          : 185.220.102.247
+  Provider    : Zwiebelfreunde e.V.
+  Country     : Germany
+  Is Proxy    : yes
+  Type        : TOR
+  Risk Score  : 100
+  +===== [ @f4c3r100 ] =====+
+
+```
+    
+<h3>Windows</h3>
+
+  For windows, we need python aswell you can download it from here:<br>
+  
+  * [PHP Windows Installation Guide](https://www.php.net/manual/en/install.windows.php)
+  
+<h3>Linux</h3>
+
+  For Linux, you should have PHP pre-installed, if not run following:
+  
+  ```
+  $ sudo apt update
+  
+  $ sudo apt upgrade -y
+  
+  $ sudo apt install php$(php -v | head -1 | cut -d . -f1-2 | sed 's/PHP //g') -y
+  
+  $ sudo apt install php-curl php$(php -v | head -1 | cut -d . -f1-2 | sed 's/PHP //g')-curl -y
+  
+  ```
+
+<h2>Disclaimer</h2>
+
+  Use this tool for educational purposes only .🕵️‍♂️
+  If you do any illegal attacks, i am not responsible for your tasks.
+  Use this tool correctly, and do not re-upload it on your github repository without permissions.
+  
+<hr>
+  
+<h2>Credits</h2>
+  
+  Channels On Telegram With Nice Stuff
+  
+  | Channel | Link |
+  | ------ | ------ |
+  | LeakerHounds | [https://t.me/LeakerHounds](https://t.me/LeakerHounds) | 
+  | ViperZCrew | [https://t.me/ViperZCrew](https://t.me/ViperZCrew) |
+  | DeepWaterLeaks | [https://t.me/deepwaterleaks2](https://t.me/deepwaterleaks2) |
+  | Tutorials Zone | [https://t.me/tutorials_zone](https://t.me/tutorials_zone) |
+  
+
+<hr>
+            
+<h2>Social Media</h2>
+ <img align="left" alt="telegram.org" width="22px" src="https://images.vexels.com/media/users/3/137414/isolated/preview/3f7486417ddd88060a1818d44b6f3728-telegram-icon-logo-by-vexels.png" /> Telegram:<br />
+ 
+* [@f4c3r100](https://t.me/f4c3r100)
+* [@On1c0n3](https://t.me/On1c0n3)
+
+
+<img align="left" alt="github.com" width="22px" src="https://image.flaticon.com/icons/svg/25/25231.svg" /> Github:<br />
+ 
+* Rebl0x3r - [https://github.com/rebl0x3r](https://github.com/rebl0x3r)
+* 0n1cOn3 - [https://github.com/0n1cOn3](https://github.com/0n1cOn3)
+
+<hr>
+
+<h2>Bug Report</h2>
+
+  If you found any bug or issue, please go [here](https://github.com/rebl0x3r/proxy-check/issues)
+  
+  You can also request an update.
+  
+<hr>
+
+
+
+[Site Up](#proxy-check)
